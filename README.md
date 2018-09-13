@@ -1,4 +1,4 @@
-<h1><center><font size="6">Home Credit Default Risk baseline model</font></center></h1>
+## Home Credit Default Risk baseline model
 
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 
